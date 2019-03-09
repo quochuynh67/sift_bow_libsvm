@@ -3,7 +3,7 @@
 
 # bao-cao-thi-giac
 
-****ĐỘ CHÍNH XÁC MÔ HÌNH (latest) : 82.647% (so bad, but it really good for me!   =='   :((((    )*****
+****ĐỘ CHÍNH XÁC MÔ HÌNH (latest) : 82.647% ( it really good for me!   =='   :((((    )*****
 
 Thiết kế báo cáo bao gồm các file :
 
